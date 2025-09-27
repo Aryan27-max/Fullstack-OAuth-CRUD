@@ -1,10 +1,9 @@
-# MSA RECRUITMENT TASK 1 - BACKEND CRUD & OAuth 
+# MSA/Coding Ninjas RECRUITMENT TASK  - BACKEND CRUD & OAuth 
 
 # FULLSTACK TODO APP 
 
 ## TECH STACK 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## DATABSE 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
