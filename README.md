@@ -1,5 +1,8 @@
-# MSA/Coding Ninjas RECRUITMENT TASK  - BACKEND CRUD & OAuth 
+# Alexa Devs RECRUITMENT TASK  - BACKEND CRUD & OAuth 
 
+---
+## Problem statment - Build a small full-stack web application that combines frontend and backend.
+---
 # FULLSTACK TODO APP 
 
 ## TECH STACK 
