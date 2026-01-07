@@ -1,4 +1,4 @@
-# Alexa Devs RECRUITMENT TASK  - BACKEND CRUD & OAuth 
+# BACKEND CRUD & OAuth - FullStack
 
 ---
 ## Problem statment - Build a small full-stack web application that combines frontend and backend.
