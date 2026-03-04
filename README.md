@@ -7,7 +7,7 @@
 
 ## TECH STACK 
 <div align = "center">
- <img src="https://skillicons.dev/icons?i=next,mongo,vercel" />
+ <img src="https://skillicons.dev/icons?i=next,mongo,vercel,bun" />
   <img src="https://cdn.simpleicons.org/clerk/ffffff" height="40" />
 </div>
 

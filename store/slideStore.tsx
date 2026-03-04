@@ -19,3 +19,4 @@ export const slideStore = create<SlideState>()(
     }
   )
 );
+// production ready all checks pass

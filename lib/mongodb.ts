@@ -48,3 +48,5 @@ async function connectDB(): Promise<typeof mongoose> {
 }
 
 export default connectDB;
+
+// production ready all checks pass

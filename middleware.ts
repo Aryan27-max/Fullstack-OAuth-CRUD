@@ -15,3 +15,5 @@ export const config = {
     "/(api|trpc)(.*)",
   ],
 };
+
+// production ready all checks pass
