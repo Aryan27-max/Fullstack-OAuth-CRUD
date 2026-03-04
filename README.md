@@ -42,15 +42,20 @@ Tasks:
 
 ## Getting Started
 
-First, run the development server:
+Clone and cd 
+
+```
+git clone https://github.com/Aryan27-max/Fullstack-OAuth-CRUD
+
+cd Fullstack-OAuth-CRUD
+
+```
+
+First install, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
+bun install
+
 bun dev
 ```
 
