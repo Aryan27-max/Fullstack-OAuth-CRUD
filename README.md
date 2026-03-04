@@ -1,15 +1,44 @@
-# BACKEND CRUD & OAuth - FullStack
+# GDG TASK BACKED BACKEND CRUD & OAuth - FullStack (TODO)
 
 ---
-## Problem statment - Build a small full-stack web application that combines frontend and backend.
+
 ---
-# FULLSTACK TODO APP 
+# FULLSTACK APP
 
 ## TECH STACK 
 <div align = "center">
  <img src="https://skillicons.dev/icons?i=next,mongo,vercel,bun" />
   <img src="https://cdn.simpleicons.org/clerk/ffffff" height="40" />
 </div>
+
+---
+# TEST PASSED ACCORDING TO TASK LINK - 
+
+Tasks:
+1. Authentication:
+ Implement user registration and login endpoints.
+ Store passwords securely using hashing.
+ Issue authentication tokens upon successful login.
+2. Notes Management (can also be done):
+ Allow authenticated users to create, view, update, and delete notes.
+ Each note must include: id, title, content, created_at, updated_at.
+ Users must only be able to access their own notes.
+3. Role-Based Access Control:
+ Add a role ƈeld to users (user or admin).
+ Regular users can manage only their own notes.
+ Admin users can view all notes and delete any note.
+4. API Behavior:
+ Use appropriate HTTP status codes.
+ Implement basic input validation.
+ Handle common errors (invalid token, missing ƈelds, resource not found).
+5. Conƈguration:
+ Use environment variables for application conƈguration.
+
+6. Submission:
+ Include a README with setup instructions.
+ Provide steps to run the application locally.
+ Include example API requests.
+---
 
 ## Getting Started
 
